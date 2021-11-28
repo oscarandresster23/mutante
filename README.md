@@ -16,12 +16,11 @@ Para implementar la solución se crea aplicacion ASP.NET Web API  en lenguaje C#
 
 ####### Ejecución y prueba de la aplicación #######
 
-Repositorio: https://gitlab.com/oscarnino/mutante
+Repositorio: https://github.com/oscarandresster23/mutante.git
 
 ####### URL de la aplicacion #######
 
-URL local: http://localhost:8080
+URL local: http://localhost:39381/swagger/index.html
 
-URL hosteada en Amazon Web Service: http://detect-mutant.sa-east-1.elasticbeanstalk.com
-
+URL hosteada en Amazon Web Service: http://mutante.azurewebsites.net
 
