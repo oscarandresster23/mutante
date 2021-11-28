@@ -1,0 +1,11 @@
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Mutante.exe
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Mutante.dll
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Mutante.deps.json
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Mutante.runtimeconfig.json
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Mutante.pdb
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Oscar\Mutante\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bumJZ1FxWDHj3XwH80rITnjnVDW2uSHIjFaYxXoQ48wlPVmfhS5Hg05pfKpFV+LRt9coCN9W/K7UNEj4U0q0ww==",
+  "success": true,
+  "projectFilePath": "C:\\Oscar\\Mutante\\Mutante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nino109924\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nino109924\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nino109924\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\nino109924\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\nino109924\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\nino109924\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
